@@ -1,0 +1,67 @@
+.color-blue {
+    color: #100D69;
+}
+.color-pink {
+    color: #D6D4F2;
+}
+.color-white {
+    color: white;
+}
+.bg-blue-transparent {
+    background-color: #072f46c9;
+}
+.full-w {
+    width: 100%;
+}
+.big-text {
+    font-size: 5.6em;
+}
+.p-relative {
+    position: relative;
+}
+.p-absolute {
+    position: absolute;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.flex {
+    display: flex;
+}
+.align-content-center {
+    align-content: center;
+}
+.align-items-center {
+    align-items: center;
+}
+.text-center {
+    text-align: center;
+}
+
+#slider {
+    width: 100%;
+    height: fit-content;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-image: url("../images/slide.png");
+}
+.logo-img {
+    padding: 1em 4em;
+    border: 3px solid #100D69;
+}
+.description {
+    padding: 2em 0;
+    font-size: 1.2em;
+    font-weight: 100;
+    text-align: center;
+    bottom: 34px;
+}
+.text-espacio {
+    display: inline-block;
+    width: 34%;
+}
+.text-description {
+    display: inline-block;
+    width: 65%;
+}
