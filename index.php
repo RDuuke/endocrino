@@ -39,23 +39,33 @@
     <div class="container">
         <div class="navbar">
             <div class="nav-item">
-                <a href="">Link 1</a>
+                <a href="interna.php?page=generalidades">Generalidades</a>
             </div>
             <div class="nav-item">
-                <a href="">Link 2</a>
+                <a href="interna.php?page=presentacion">Presentación Clínica</a>
             </div>
             <div class="nav-item">
-                <a href="">Link 3</a>
+                <a href="interna.php?page=medicion">Medición e interpretación de los niveles de Prolactina</a>
             </div>
             <div class="nav-item">
-                <a href="">Link 4</a>
+                <a href="interna.php?page=tratamiento">Tratamiento de la Hiperprolactinemia</a>
             </div>
             <div class="nav-item">
-                <a href="">Link 5</a>
+                <a href="interna.php?page=practica">Poniendo en práctica lo aprendido</a>
             </div>
         </div>
     </div>
 </section>
+<footer class="bg-blue">
+    <div class="container flex align-content-center align-items-center">
+        <div class="logo-footer flex-auto">
+            <img src="images/logo.png" alt="Logo UdeA">
+        </div>
+        <div class="copy flex-auto text-right color-white">
+            <small>Creado por la Facultad de Medicina de la Universidad de Antioquia</small>
+        </div>
+    </div>
+</footer>
 <script src="js/template.js"></script>
 </body>
 </html>
